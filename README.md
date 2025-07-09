@@ -17,8 +17,7 @@ A simple one-screen iOS app built with SwiftUI. The app displays an animal image
 ## 🚀 Getting Started
 1. Clone this repository
 2. Open the project in Xcode
-3. Add animal images (`lion`, `elephant`, `zebra`, etc.) to **Assets.xcassets**
-4. Build and run on the iOS Simulator or a real device
+3. Build and run on the iOS Simulator or a real device
 
 ## 🧠 Concepts Used
 - SwiftUI Views (`Image`, `Button`, `Alert`, `VStack`)
